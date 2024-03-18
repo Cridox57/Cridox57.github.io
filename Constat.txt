@@ -29,7 +29,7 @@
 		<li><a href="#">Problème animalier</a></li>
       </ul>
     </li>
-    <li><a href="file:///C:/Users/El%C3%A8ve/Desktop/site%20final%202/site%20final%202/Test.html">Home</a></li>
+    <li><a href="file:///C:/Users/El%C3%A8ve/Desktop/site%20final%202/site%20final%202/index.html">Home</a></li>
 	<li><a href="#">À propos</a></li>
     <li><a href="#">Contactez-nous</a></li>
   </ul>
