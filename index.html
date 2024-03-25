@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
+	<?php if(strstr($_SERVER['HTTP_USER_AGENT'],'iPhone') || strstr($_SERVER['HTTP_USER_AGENT'],'iPod'))  {   header('Location: http://yoursite.com/iphone');   exit(); } >
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
